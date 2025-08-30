@@ -1,7 +1,6 @@
 # Exam - Task
 
 Single-file Java exercise demonstrating basic OOP concepts.  
-This is a study exercise from university coursework. Solution implemented by me as part of coursework.
 
 ## Assignment
 Write two classes in Java: **Task** (represents an exam task) and **Exam** (represents a programming exam).
