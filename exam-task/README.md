@@ -1,4 +1,4 @@
-# Exam - Task
+# Java Study Exercise: Exam - Task
 
 Single-file Java exercise demonstrating basic OOP concepts.  
 
