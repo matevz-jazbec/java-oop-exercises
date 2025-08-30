@@ -1,7 +1,6 @@
-# Java Study Exercise: Subject Schedule
+# Java Study Exercise: Subject - Schedule
 
 Single-file Java exercise demonstrating basic OOP concepts.  
-This is a study exercise from university coursework. Solution implemented by me as part of coursework.
 
 ## Assignment Instructions
 
