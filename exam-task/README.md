@@ -1,8 +1,7 @@
 # Exam Task
 
 Single-file Java exercise demonstrating basic OOP concepts.  
-This is a study exercise from university coursework.  
-Original assignment provided by the faculty; solution implemented by me as part of coursework.
+This is a study exercise from university coursework. Solution implemented by me as part of coursework.
 
 ## Assignment
 Write two classes in Java: **Task** (represents an exam task) and **Exam** (represents a programming exam).
@@ -22,17 +21,15 @@ Write two classes in Java: **Task** (represents an exam task) and **Exam** (repr
 Finally, add a `main` method in **Exam** that creates one exam with at least three tasks.
 
 ## Files
-- `ExamTask.java` — contains both classes (`Task`, `Exam`) in one file for easier showcasing.
+- `Exam.java` — contains both classes (`Task`, `Exam`) in one file for easier showcasing.
 
 ## Run
 Requires **JDK 11+**.
 
 ```bash
-javac ExamTask.java
+javac Exam.java
 java Exam
 ```
-
-> The entry point (`main`) is inside class `Exam`, so you run `java Exam`.
 
 ## Customize the data
 You can change the sample data without modifying the class design:
